@@ -1,2 +1,2 @@
 # Python-Codes
-This code was written with the purpose of not using built-in functions or with minimum built-in functions.
+This code was written with the purpose of using minimum built-in functions.
